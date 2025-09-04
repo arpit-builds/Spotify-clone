@@ -2,17 +2,20 @@
 
 A Spotify-inspired web music player supporting dynamic album and playlist browsing, music playback controls, and a responsive UI. This project is a front-end clone built using HTML, CSS, and JavaScript.
 
-## Project screenshots
+---
 
 ## Project video
 
 ## Features
 - **Spotify-like UI**: Mimics the modern look and feel of Spotify's web player.
 - **Dynamic Song/Album Listing**: Fetches albums and songs from a specified server directory.
+---
 - **Full Playback Controls**: Play, pause, next, previous, seek, and volume adjustment.
 - **Responsive Navigation**: Hamburger menu and sidebar expand/collapse for easy browsing.
 - **Track Information**: Displays current song/info and updates playback progress in real time.
 - **Volume Control & Mute**: Adjust or mute playback volume interactively.
+
+---
 
 ## Getting Started
 
@@ -61,13 +64,14 @@ Example `info.json`:
 
 **Note:** The JavaScript fetches songs using an IP and port (`http://192.168.1.9:3000/...`). For local use, update these URLs in `js/script.js` to match your server address (e.g., `http://localhost:3000/`).
 
+---
+
 ## Customization
 - Update styles in `css/style.css` and `css/utility.css`.
 - Replace images in `img/` with your preferred icons and logos.
 - Add new albums/songs by placing them in the appropriate directory structure.
 
-## Credits
-This project is for educational purposes and is not affiliated with or endorsed by Spotify.
+---
 
-## License
-[MIT License](LICENSE) (add your license file if required)
+## Credits
+This project is for educational purposes learned form CodeWithHarry. It is not affiliated with or endorsed by Spotify.
