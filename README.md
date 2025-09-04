@@ -5,6 +5,7 @@ A Spotify-inspired web music player supporting dynamic album and playlist browsi
 ---
 
 ## Project video
+https://github.com/user-attachments/assets/f3ab2fb1-ecbb-48d0-946e-db196f804fcf
 
 ## Features
 - **Spotify-like UI**: Mimics the modern look and feel of Spotify's web player.
